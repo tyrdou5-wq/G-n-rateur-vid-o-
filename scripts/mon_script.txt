@@ -1,0 +1,19 @@
+[SCÈNE 1 - Introduction]
+Narration: Bonjour et bienvenue dans cette vidéo fascinante. Aujourd'hui, nous allons explorer des sujets incroyables qui vont vous surprendre.
+Durée: 5 secondes
+Visuels souhaités: introduction, bienvenue, vidéo
+
+[SCÈNE 2 - Contenu Principal]
+Narration: Saviez-vous que la nature regorge de phénomènes extraordinaires ? Chaque jour, des millions d'événements remarquables se produisent autour de nous.
+Durée: 8 secondes
+Visuels souhaités: nature, phénomènes, découverte
+
+[SCÈNE 3 - Point Clé]
+Narration: Les scientifiques ont découvert que ces processus naturels sont bien plus complexes qu'on ne le pensait auparavant. La recherche continue d'apporter de nouvelles révélations.
+Durée: 8 secondes
+Visuels souhaités: science, recherche, découverte scientifique
+
+[SCÈNE 4 - Conclusion]
+Narration: En conclusion, il est important de continuer à explorer et à apprendre. Le monde est plein de mystères à découvrir. Merci de nous avoir regardés.
+Durée: 6 secondes
+Visuels souhaités: conclusion, merci, fin
