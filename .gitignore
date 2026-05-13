@@ -1,0 +1,31 @@
+# Environment
+venv/
+env/
+.env
+
+# Temporary files
+.temp/
+.temp_*
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+app.log
+
+# Output
+output/*.mp4
+output/*.mkv
+
+# OS
+.DS_Store
+Thumbs.db

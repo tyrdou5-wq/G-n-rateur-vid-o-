@@ -1,0 +1,34 @@
+[SCÈNE 1 - Introduction]
+Narration: Saviez-vous que le joueur le plus rapide au monde aujourd'hui peut comparer sa vitesse à celle d'une Ferrari ?
+Durée: 5 secondes
+Visuels souhaités: Terrain de football, vitesse, voiture rapide
+
+[SCÈNE 2]
+Narration: Voici les 5 joueurs les plus rapides du monde.
+Durée: 4 secondes
+Visuels souhaités: Football, vitesse, classement
+
+[SCÈNE 3 - Anthony Elanga]
+Narration: À la cinquième place, Anthony Elanga avec une vitesse modérée de 36,9 km/h. La vitesse d'Elanga a été essentielle dans la stratégie de contre-attaque de son club, sa capacité à débloquer les défenses avec ses sprints éblouissants et particulièrement les lignes.
+Durée: 8 secondes
+Visuels souhaités: Anthony Elanga, football, vitesse
+
+[SCÈNE 4 - Vinicius Junior]
+Narration: À la quatrième place, Vinicius Junior, l'élite du Real Madrid et de l'équipe nationale brésilienne, a atteint une vitesse de pointe de 37,2 km/h. Sa vitesse et son agilité font de lui un atout précieux pour le Real Madrid.
+Durée: 8 secondes
+Visuels souhaités: Vinicius Junior, Real Madrid, vitesse
+
+[SCÈNE 5 - Kyle Walker]
+Narration: À la troisième place, Kyle Walker, le latéral droit a atteint une vitesse de plus de 37,5 km/h. Le défenseur a toujours démontré une vitesse qui reste un élément clé de son jeu.
+Durée: 8 secondes
+Visuels souhaités: Kyle Walker, football, défense
+
+[SCÈNE 6 - Van de Ven]
+Narration: À la deuxième place, Van de Ven, le défenseur talentueux, a atteint une vitesse de 37,9 km/h. Ce joueur s'est fait un nom grâce à sa vitesse incroyable qui a renforcé la stratégie défensive de Tottenham Hotspur.
+Durée: 8 secondes
+Visuels souhaités: Van de Ven, Tottenham, football
+
+[SCÈNE 7 - Kylian Mbappé]
+Narration: À la première place, le joueur le plus rapide du monde est Kylian Mbappé, l'étoile du Real Madrid a atteint une vitesse de pointe de 38 km/h. La superstar française est connue pour sa vitesse qui a été un facteur clé de son succès sur le terrain.
+Durée: 10 secondes
+Visuels souhaités: Kylian Mbappé, Real Madrid, vitesse

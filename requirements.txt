@@ -1,0 +1,22 @@
+# Core dependencies
+gtts==2.3.2
+requests==2.31.0
+Pillow==10.0.0
+python-dotenv==1.0.0
+
+# Video processing
+pydub==0.25.1
+
+# CLI and logging
+click==8.1.7
+colorama==0.4.6
+
+# Data processing
+pandas==2.0.3
+
+# JSON validation
+jsonschema==4.19.0
+
+# Optional: For better audio support
+# librosa==0.10.0
+# scipy==1.11.3
